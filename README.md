@@ -1,11 +1,5 @@
 # 🌟 FGFSCAPTAINCHEAT 🌟  
 
-## 📥 Download Instructions  
-**⚠️ IMPORTANT: To download the file:**
-
-1. Click on the **Code** button above.  
-2. Then click on **Download ZIP**.  
-
 ## 🛠 Developer  
 This project was created by **FGFS - Captain Deniz**.  
 
