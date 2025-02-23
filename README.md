@@ -18,7 +18,12 @@ This project was created by **FGFS - Captain Deniz**.
 6️⃣ Enjoy the game and feel free to **inject scripts** to customize and change your gameplay. 🚀  
 
 ## 🔥 Version & Date  
-🆕 **Version:** 1.0.7  
+🆕 **Version:** 1.1.8  
 📅 **Release Date:** February 23, 2025  
+
+## 🔄UPDATE
+- ✅Script Box
+- ✅TopMost setting
+
 
 ✅ Have fun! 🎉  
