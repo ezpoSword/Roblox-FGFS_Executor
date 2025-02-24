@@ -3,7 +3,7 @@
 ## 🛠 Developer  
 This project was created by **FGFS - Captain Deniz**.  
 ##  
-- status: 🔴broken, being rebuilt!
+- status: 🟢 VERY VERY GOOD!
 ##  
 ## 🚀 Features  
 ✔ You can easily connect to **Roblox** by pressing the **Inject** button.  
@@ -20,8 +20,8 @@ This project was created by **FGFS - Captain Deniz**.
 6️⃣ Enjoy the game and feel free to **inject scripts** to customize and change your gameplay. 🚀  
 
 ## 🔥 Version & Date  
-🆕 **Version:** 1.1.8  
-📅 **Release Date:** February 23, 2025  
+🆕 **Version:** 1.1.1
+📅 **Release Date:** February 24, 2025  
 
 ## 🔄UPDATE
 - ✅Script Box
