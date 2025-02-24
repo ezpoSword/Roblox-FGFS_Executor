@@ -2,7 +2,9 @@
 
 ## 🛠 Developer  
 This project was created by **FGFS - Captain Deniz**.  
-
+##  
+- status: 🔴broken, being rebuilt!
+##  
 ## 🚀 Features  
 ✔ You can easily connect to **Roblox** by pressing the **Inject** button.  
 ✔ While **Roblox is open and you're in a game**, you can click the **Inject** button to inject your scripts and run them.  
