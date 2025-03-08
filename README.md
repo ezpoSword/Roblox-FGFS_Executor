@@ -3,7 +3,7 @@
 ## 🛠 Developer  
 This project was created by **FGFS - Captain Deniz**.  
 ##  
-- status: 🔴 Execute error!
+- status: ⚫ It won't be green until it gets fixed ```[currently waiting for .dll fix]```
 
 > [!CAUTION]
 > If you inject while Roblox is closed, the player may crash or become uncloseable!
