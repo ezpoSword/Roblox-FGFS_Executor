@@ -6,7 +6,7 @@ This project was created by **FGFS - Captain Deniz**.
 - status: 🟢 Working
 
 > [!CAUTION]
-> If you inject while Roblox is open, the player may crash or become unclosable!
+> If you inject while Roblox is closed, the player may crash or become uncloseable!
 
 > [!NOTE]
 > .dll edited by Cloudy Thanks to Cloudy 😃
