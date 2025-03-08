@@ -3,7 +3,7 @@
 ## 🛠 Developer  
 This project was created by **FGFS - Captain Deniz**.  
 ##  
-- status: 🟢 Working
+- status: 🔴 Execute error!
 
 > [!CAUTION]
 > If you inject while Roblox is closed, the player may crash or become uncloseable!
