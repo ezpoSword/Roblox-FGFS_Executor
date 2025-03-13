@@ -3,7 +3,7 @@
 ## 🛠 Developer  
 This project was created by **FGFS - Captain Deniz**.  
 ##  
-- status: 🟢 Trick Now Working Thanks Cloudy
+- status: 🔴Expected to be fixed
 
 > [!CAUTION]
 > If you inject while Roblox is closed, the player may crash or become uncloseable!
