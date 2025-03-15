@@ -1,11 +1,3 @@
-
- 
-
- ![DiscordBanner](https://github.com/user-attachments/assets/43848105-7dec-49da-b85c-47474a11b31c) The entire script belongs to you!
-
-
-
-   
 # 🌟 FGFSCAPTAINCHEAT 🌟  
 
 ## 🛠 Developer  
