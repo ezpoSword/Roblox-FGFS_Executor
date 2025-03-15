@@ -3,7 +3,8 @@
 ![FGFS cheat Banner](https://github.com/user-attachments/assets/694907cd-1764-4ef7-a861-a9edb9ef9cfc)
 
 
-![Static Badge](https://img.shields.io/badge/Discord_Server-red?style=for-the-badge&logo=discord&logoColor=blue&logoSize=20&label=FGFS%20cheat&labelColor=black&color=blue&link=https%3A%2F%2Fdiscord.gg%2FDcFTRd9znT)
+[![Static Badge](https://img.shields.io/badge/Discord_Server-red?style=for-the-badge&logo=discord&logoColor=blue&logoSize=20&label=FGFS%20cheat&labelColor=black&color=blue)](https://discord.gg/DcFTRd9znT)
+
 
 ## 🛠 Developer  
 This project was created by **FGFS - Captain Deniz**.  
