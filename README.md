@@ -1,3 +1,4 @@
+![FGFS cheat](https://github.com/user-attachments/assets/1141838c-3dde-44ab-9fb6-65dfb2bda457) The entire script belongs to you!
 # 🌟 FGFSCAPTAINCHEAT 🌟  
 
 ## 🛠 Developer  
