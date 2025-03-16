@@ -16,7 +16,7 @@ I
 ## 🛠 Developer  
 This project was created by **FGFS - Captain Deniz**.  
 ##  
-- status: 🟡 Fixing and waiting update...
+- status: 🟢working
 
 > [!IMPORTANT]
 >  What do the colors mean  
