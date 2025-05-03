@@ -19,14 +19,15 @@ I
 ## 🛠 Developer  
 This project was created by **FGFS - Captain Deniz**.  
 ##  
-## - status: 🔴🔁🔵 [V2 is coming but V1 closed!]
+## - status: V1:⚫ V2:🔵 [V2 is coming but V1 closed!]
 ##
 > [!IMPORTANT]
 >  What do the colors mean  
 > 🟢 Working  
 > 🟡 Fixing  
 > 🔴 crash  
-> ⚫ Not working right now and not interested these days  
+> ⚪ Not working right now and not interested these days
+> ⚫ Deleted
 
 
 
