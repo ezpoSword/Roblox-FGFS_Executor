@@ -9,6 +9,9 @@ I
 I
 [![FGFS CHEAT WEBSITE](https://img.shields.io/badge/FGFS_CHEAT-go_Site-blue?style=for-the-badge&logoColor=red&logoSize=20.20&label=FGFS%20CHEAT%20WEBS%C4%B0TE&labelColor=purple&color=grey)](https://fgfs-cheat-download.my.canva.site/)
 I
+[![DISCORD](https://img.shields.io/badge/server-blue?style=for-the-badge&logo=discord&logoColor=blue&label=discord&color=blue
+)](https://discord.gg/p6CTVrypr4)
+I
 
 
 
