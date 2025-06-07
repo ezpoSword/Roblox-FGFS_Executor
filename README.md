@@ -19,7 +19,7 @@ I
 ## 🛠 Developer  
 This project was created by **FGFS - Captain Deniz**.  
 ##  
-## - status: V1:⚫ V2:🔵 [V2 is coming but V1 closed!]
+## - status: [on discord CLICK ME! ](https://discord.gg/Sm6mG3pg)
 ##
 > [!IMPORTANT]
 >  What do the colors mean  
